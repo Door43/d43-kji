@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kji:home|Door43 (kji)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kji|d43-kji repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kji/archive/master.zip|d43-kji.zip]]
+
+**Recent Changes**
+{{changes>ns = kji}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kji|Ethnologue data]]
+
